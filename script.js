@@ -36,7 +36,11 @@ function updateprogress(){
         secs = '0' +String(secs);
         }
         timestamp.innerHTML =`${mins}:${secs}`;
+
     
+
+
+        
 
 }
 //stop video
